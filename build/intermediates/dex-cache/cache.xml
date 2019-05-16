@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/20042f8ec7720d20a7d0470ea12a22a44c2a8327/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_3d916821dc3b0857c2d2fa5c27ad88a41e08d6d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/890a85578ca657594e6b37a375d8420acad3aade/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_398875e6861b60617dead98789c8605e4c853d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/support-annotations-28.0.0_6fdf925021be845d1545a89168746759b710dec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_880110d8c2705f890ad6f182e57bfff2678c3efa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/9045d05aceaa169b6c0f39e1a712d4f278d7331c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_9becf785408ca8d6f1a3a3418393127a98e223fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/a1b5f29214617159c5e6793021d2f1e4ec044b3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d4e0e33103f4ad09e67d3d508585e4a70fe96f86">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_deb263536b5e88e367be1b04f9bc5a368fb721a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/0b8decef433891f1f90a4ef7b9fcff9212346f4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_85b6c436ec90a582a8b34e88cf246c7b93eadf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/67369da003af0cd7886576778c7f8d838fdf597c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_5e71110a5511e5326f7e772dd675c03bc2b5c298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/657c60c8f9d31f722e45f00d2551b45c7616dbe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_40860637652c313f923bf3b0c2a245032830097c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/5b8e36da2268515e35e85d836fe00d47fc226b61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_68413a98dddc69aa744e98be278c80f63a280947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/6f0a268d9a3c78c1850b214396b3f52781ccbce0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_3e8485e09dceeba5cce52193125721a2ced54d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/56321eac8596540e9c6610449f7c1db4cf12a45f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_bc4566620b48625d422f7a8ff90ec0dcb2c42d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/28754bd921815b2e03716b80ac7305f66f3106a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_6dccab2b1371b333d27cdd18fde380c538739f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/9a3b0224aac5ea244e2f64c09127a56a1027cad7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_ba8623c49aeecebc9b8102b78a060e0186fc19ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/bf1de56c58b86141c3c50db0c40ec7bc8a3b9beb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_c07838b8bfa411d1588a4a0819dad794ae0c500a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/c22281986df7739f3c2117e5b2d87f0d62ae31ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_e32944c444edc5cf0f3fc134c29df32681bdcc38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/88d1637ef5069446cb861bacb4ff5007b7111697/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_d1b6e63d23420f0a24225f1fe6c19f2f7a22b99d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/1f54a9cd1d0290c29a1c33f5aae0522abcef8f49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_130da808daece8a90ebd5f1ae8cf19c9139f8a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/e8b27a04cf5e415f8751124c5bd8ae7681087c36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_0dc6cd3cd9e04bb4fde629a163ec40e5755f68fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/collections-28.0.0_6cc512e70a908897eb5010d08e87599b93707d0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/e541e4fc3e3b1bc5e2ac2b45fa9554136cd7d40a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_d4c1468972a6fbb32a62efe2ae774dab3653261c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/53e6944439e85b099d5a64558409047ab8221d55/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_6f700017e3e34b1e3853eb895c0227889df5d3cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/84f17024fe4d3dd6674326a9c3242997ab6d87fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_48abe7a50deee308e68ae8cb8b6b2f1e32b1e1dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/b324d3a624923ccadef40352746548516fcdd94d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_22b193ca0d703541e4931c585fca5a562a8ba3f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/0fe92daf3d6dc96e0d8b04c5d95b54e33d5d7d38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_3469d46fb2173ddfa186500e8626a54831987d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/common-1.1.1_a539b59037221925590b8b806dd1ee17e836679a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/779968fddcfbed26c609aab8e029acca2b362538/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_6a63fdde486be9e3f6d6468b456d75e292a0ddd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/a9a5a610b0033a3409867f863eddf7a80baae92a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_852c62b6bf23b02b8328aa72a6c95d38b7400f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/7efce0a9d0d83b477f1fc08b7a408de827b7e46e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_7ba74620d0cd59364bcecad2ebaaa6cedac1f125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/562d580cc64348076a0425e042f326649ff1fbc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_56e54ff57b1eaa8c0ec301cc0c3aafada66c19e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/ab2e7601b63c5081e86a23da7e5c089c7058250d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_306e0b81a272adf6345eb71c3575ed3100ed4fb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/edfafd89f24b3975a63e029d0197b47aa9746902/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_44cff64768a42691ab0526f957ae25209e0e388a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/af42c0e90b0090e19e7bc8353a9e87dafb28ae64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_92721687371cd7bb7b4c8a38cf2b922815086731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/edad2833f7860994f925a6f68f24b95ebfe85692/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_a66ea0951a7267db7f7039fcb523802645488f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/c8ee2d5478310f8d775c5163bea5d9e9c358b8ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_4345d8abf21358d8b7d3fdf71825c07c0e75b210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/ad3848116c6e265a1a440b4224e89270d7fc00ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_55751fb293764bf9190c76ea125b8be65d8ed3b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/a7dc1616430e0ce0890a84e3a2ffeb396b2755bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_57e570f6878ef816661a7021d1acb01a1f744497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/ce4904860cc6401a3336a180220221502618ea38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_7f000cbbe0835c0983c46ea99c1452b318c14d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/81bec67078e5781bac2c5a3af109a442450c29dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_a9b02798f9babe2a85a1fe75a8221f6738dc906c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/1b5963c10b5f95dd343f98d37622a06f0683c594/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_ad2113f189eb84791274530c6fd911fbf4f22490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/2a85800cb64df94f201b5b9447a27f6993aa1a25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_ce9a15b297cb499f484d3a3eb78a58ae5bbb29f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/191e3878a30874059a4a91974369d3367f3b0465/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_eebe39cc989f1bc4b23bed699e8e91c083d4930c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/df0077ab6ba120de51d8e65139409b4820c03014/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_d8f9aa727a27c8892e2af9b7401f1d62ce61313d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/562e2908c8f446fb5bc4f1602f5a6e39c557f2f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_c67d44f358728301d4ddb6f7dc891d8979756f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/34f67300f074e161e0b58ddcf022b53e6009f821/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="f1c031c4ca26cea0adbe178007dd3bfd311be983">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_5ab3a27427d34d4eff0e0f91061f9d61b5aa6abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/1d9b98bee8e05ca460cb35515bb496b6df40cdc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_94d5893283440400b0f8c6a498a8c9bf76578386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/1480c0ef1606c54412c3f18577b3e418dad0d010/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="31b98191e7c892b25799dbe30c8124210a68e201">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_8de9354a7b9f1815c0f7fd82e82c7282508cf6fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/cb633d2462c6db7218a025aa564f5e5addec2914/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_f2fc423fbd76de084d4720f4ea9a2735cc031d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/common-1.1.1_9c2450c2191f9f2b266e869d5576725a82eb06d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekosp/.android/build-cache/a57e6eb31fc36b4c11e9cb136124897d2026027a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.2"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="/Applications/Android Studio.app/Contents/bin/https:/github.com/fahreziadh/FirebasePhoneAuthentication/app/build/intermediates/pre-dexed/debug/classes_dfbcd3bcdecdddece5cf4c7d4fb7fd816bd27e19.jar" />
+    </item>
+
+</items>
